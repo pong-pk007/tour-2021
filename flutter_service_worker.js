@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "8a6f4db6e49338cf2ac287e6d9512406",
+  "assets/AssetManifest.json": "5ebf74a4108bba7099b8de89c0b2d58d",
 "assets/assets/images/five.jpg": "e1515943c4d9dffcf886128bcd9806a2",
 "assets/assets/images/four.jpg": "fd72ee900ec039a23205887e1e183ee9",
 "assets/assets/images/one.jpg": "a7af6dce7fb7a27f8d0bdb11334cf20e",
@@ -13,7 +13,9 @@ const RESOURCES = {
 "assets/assets/images/pt4.jpg": "bec3e70370c84b1fe8cf3f0c2545ee79",
 "assets/assets/images/three.jpg": "10e1a2177dcf9391b9751bb0167550fd",
 "assets/assets/images/two.jpg": "3cd6d4a679482ca66e5dec51be2e6b6c",
-"assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
+"assets/FontManifest.json": "20e37ea2f709dcb4da18bd0706491d42",
+"assets/fonts/Kanit-Italic.ttf": "dc367df0fa268ab11b47a22f78fc832e",
+"assets/fonts/Kanit-Regular.ttf": "b935eb6769e902b3b0086459a7c55a05",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
 "assets/images/avatar.jpg": "a9aa328725418b0170066106c10f8e4f",
 "assets/images/birds.jpg": "4556f9fcc796d282dbd793f4b1a29608",
@@ -33,9 +35,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "761955acb6324f5f81c276a5a2d7df7c",
-"/": "761955acb6324f5f81c276a5a2d7df7c",
-"main.dart.js": "a9e8a5c62385d4541e8ca30891421b26",
+"index.html": "95cb86210d06f7bf1471f52bc7123a25",
+"/": "95cb86210d06f7bf1471f52bc7123a25",
+"main.dart.js": "dffad48a17c922933917fabbfaaab9dd",
 "manifest.json": "2625a459e79f3cdef95834e6e49a40cd",
 "version.json": "3032789490c7d1141fedd1b4c0572e7e"
 };
