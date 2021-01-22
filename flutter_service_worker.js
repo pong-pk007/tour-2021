@@ -3,7 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "a7d0ecdf17f2eb917dfa6cb2049d14da",
+  "assets/AssetManifest.json": "9b5124b920f1050759578307068ffb44",
+"assets/assets/images/destination.png": "8046b8dfb19349775c9cdc003666fcd4",
 "assets/assets/images/five.jpg": "e1515943c4d9dffcf886128bcd9806a2",
 "assets/assets/images/four.jpg": "fd72ee900ec039a23205887e1e183ee9",
 "assets/assets/images/one.jpg": "a7af6dce7fb7a27f8d0bdb11334cf20e",
@@ -17,6 +18,7 @@ const RESOURCES = {
 "assets/assets/images/pt8.jpg": "7f9b590aad7984b0715137a5e0f1c55d",
 "assets/assets/images/three.jpg": "10e1a2177dcf9391b9751bb0167550fd",
 "assets/assets/images/two.jpg": "3cd6d4a679482ca66e5dec51be2e6b6c",
+"assets/assets/svg/route.svg": "d4c0be17228a5e3a99651703f9872abc",
 "assets/FontManifest.json": "20e37ea2f709dcb4da18bd0706491d42",
 "assets/fonts/Kanit-Italic.ttf": "dc367df0fa268ab11b47a22f78fc832e",
 "assets/fonts/Kanit-Regular.ttf": "b935eb6769e902b3b0086459a7c55a05",
@@ -29,19 +31,20 @@ const RESOURCES = {
 "assets/images/placeholder.png": "1ecba3e962a809952486ef92e2a2ee8d",
 "assets/images/sisaketlogo.png": "a6bcbdec3b0c8aa1f14f018d8070e5e7",
 "assets/images/sisaket_splash2.png": "666e15eeed9bea8b29ed57ca9d4e4b24",
-"assets/NOTICES": "ecd0d1a87486ffcab366312ca4d2fcdb",
+"assets/NOTICES": "90bea0e75a8b2d294a4f7b94c8fc7456",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/fluttertoast/assets/toastify.css": "8beb4c67569fb90146861e66d94163d7",
 "assets/packages/fluttertoast/assets/toastify.js": "8f5ac78dd0b9b5c9959ea1ade77f68ae",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "831eb40a2d76095849ba4aecd4340f19",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "a126c025bab9a1b4d8ac5534af76a208",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "d80ca32233940ebadc5ae5372ccd67f9",
+"assets/packages/wakelock_web/assets/no_sleep.js": "7748a45cd593f33280669b29c2c8919a",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "614235ad5ede04adb5719ff013e1be81",
-"/": "614235ad5ede04adb5719ff013e1be81",
-"main.dart.js": "da754259a49e21cacdfb00eba41ac592",
+"index.html": "9f3bb8a1e0ac4a4894af14213de3b6b6",
+"/": "9f3bb8a1e0ac4a4894af14213de3b6b6",
+"main.dart.js": "1156aeceb6b96d9a5af4a967cb4301ee",
 "manifest.json": "2625a459e79f3cdef95834e6e49a40cd",
 "version.json": "3032789490c7d1141fedd1b4c0572e7e"
 };
