@@ -4,12 +4,12 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "3032789490c7d1141fedd1b4c0572e7e",
-"index.html": "a4c0351d9df140dad5681330122f3c61",
-"/": "a4c0351d9df140dad5681330122f3c61",
-"main.dart.js": "5c303550734e1cb54da2652fcb10d618",
-"favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
+"index.html": "51a74cd5c923bdbf17791b916185408b",
+"/": "51a74cd5c923bdbf17791b916185408b",
+"main.dart.js": "f37e2c2c335fa5c02e44d9eaed85942b",
+"favicon.png": "54d26b21c5eb3db6de729bf189621ac0",
+"icons/Icon-192.png": "98bcb7401dfc775c1f7e024099e1cd08",
+"icons/Icon-512.png": "7a35ad975065d0825392b5fa9a4ea260",
 "manifest.json": "58cbcd249a732a2eb913694c94b6ac5c",
 "assets/images/phamoreedang.jpg": "8f672b7dd928c6078ca9b2c821e4faa9",
 "assets/images/icon.png": "c52ea00cb86b0a3ec1bd79f45866c27e",
@@ -19,8 +19,8 @@ const RESOURCES = {
 "assets/images/sisaket_splash2.png": "666e15eeed9bea8b29ed57ca9d4e4b24",
 "assets/images/birds.jpg": "4556f9fcc796d282dbd793f4b1a29608",
 "assets/images/gmicon.png": "4d4183532ece48979dc2b869a1fce313",
-"assets/AssetManifest.json": "e647f4fc41c19d586bf2c61a9edd612b",
-"assets/NOTICES": "5963278af7f28c912828ec9b044cfe5e",
+"assets/AssetManifest.json": "013c5a46046370d3c8cd6e9d7f70a7d0",
+"assets/NOTICES": "d73b66f4ff800807928b726cb17c21cd",
 "assets/FontManifest.json": "bc176f6aac04163a19cac70ee8452dcb",
 "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_AMS-Regular.ttf": "657a5353a553777e270827bd1630e467",
 "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Script-Regular.ttf": "55d2dcd4778875a53ff09320a85a5296",
@@ -46,8 +46,11 @@ const RESOURCES = {
 "assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "ffed6899ceb84c60a1efa51c809a57e4",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "eaed33dc9678381a55cb5c13edaf241d",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "3241d1d9c15448a4da96df05f3292ffe",
+"assets/packages/youtube_player_flutter/assets/speedometer.webp": "50448630e948b5b3998ae5a5d112622b",
 "assets/packages/fluttertoast/assets/toastify.js": "e7006a0a033d834ef9414d48db3be6fc",
 "assets/packages/fluttertoast/assets/toastify.css": "a85675050054f179444bc5ad70ffc635",
+"assets/packages/flutter_inappwebview/t_rex_runner/t-rex.css": "5a8d0222407e388155d7d1395a75d5b9",
+"assets/packages/flutter_inappwebview/t_rex_runner/t-rex.html": "16911fcc170c8af1c5457940bd0bf055",
 "assets/packages/wakelock_web/assets/no_sleep.js": "7748a45cd593f33280669b29c2c8919a",
 "assets/fonts/Kanit-Regular.ttf": "b935eb6769e902b3b0086459a7c55a05",
 "assets/fonts/Kanit-Italic.ttf": "dc367df0fa268ab11b47a22f78fc832e",
@@ -66,7 +69,8 @@ const RESOURCES = {
 "assets/assets/images/pt3.jpg": "7667ff10e7cf7733e810090e89a8851e",
 "assets/assets/images/pt8.jpg": "7f9b590aad7984b0715137a5e0f1c55d",
 "assets/assets/images/five.jpg": "e1515943c4d9dffcf886128bcd9806a2",
-"assets/assets/images/one.jpg": "a7af6dce7fb7a27f8d0bdb11334cf20e"
+"assets/assets/images/one.jpg": "a7af6dce7fb7a27f8d0bdb11334cf20e",
+"favicon_old.png": "5dcef449791fa27946b3d35ad8803796"
 };
 
 // The application shell files that are downloaded before a service worker can
