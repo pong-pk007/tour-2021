@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "602595e4380c10c66788a1a0957bae08",
-"index.html": "c6cf4031028242633c8d7b4ce9feefbc",
-"/": "c6cf4031028242633c8d7b4ce9feefbc",
-"main.dart.js": "7fe425fb441c72523e81b8da4a94884a",
+"index.html": "2cd93aa612f26f614bc4e2eacbee9095",
+"/": "2cd93aa612f26f614bc4e2eacbee9095",
+"main.dart.js": "506f688205ec45a6ce41bd235df6e0af",
 "flutter.js": "0816e65a103ba8ba51b174eeeeb2cb67",
 "favicon.png": "54d26b21c5eb3db6de729bf189621ac0",
 "icons/Icon-192.png": "98bcb7401dfc775c1f7e024099e1cd08",
@@ -21,7 +21,7 @@ const RESOURCES = {
 "assets/images/birds.jpg": "4556f9fcc796d282dbd793f4b1a29608",
 "assets/images/gmicon.png": "4d4183532ece48979dc2b869a1fce313",
 "assets/AssetManifest.json": "4976cf61dd0b775688626d4334c73062",
-"assets/NOTICES": "5c2e473e4fca49828e0da78d84cc45bc",
+"assets/NOTICES": "e156e2b3d6bd4e5931d9cde50847c035",
 "assets/FontManifest.json": "bc176f6aac04163a19cac70ee8452dcb",
 "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_AMS-Regular.ttf": "657a5353a553777e270827bd1630e467",
 "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Script-Regular.ttf": "55d2dcd4778875a53ff09320a85a5296",
