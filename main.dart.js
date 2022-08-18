@@ -29913,7 +29913,7 @@ r.a=q.h(a,"AttractionsID")
 r.b=q.h(a,"TypeID")
 r.c=q.h(a,"Name")
 r.d=q.h(a,"Attractions_detail")
-r.e=q.h(a,"Location")
+r.e=q.h(a,"AMPHUR_NAME")
 r.f=q.h(a,"Phone")
 r.r=q.h(a,"price")
 r.w=q.h(a,"latitude")
@@ -100475,7 +100475,7 @@ p=A.tV(g,2)
 n=A.bx(B.an_,g,16)
 l=A.bt(g,g,16)
 k=o.e
-k.toString
+if(k==null)k="\u0e44\u0e21\u0e48\u0e1e\u0e1a\u0e2d\u0e33\u0e40\u0e20\u0e2d"
 k=A.U(g,A.bi(A.a([n,l,new A.oe(1,B.i7,A.U(g,A.ak(k,g,B.ct,g,A.b_(g,g,g,g,g,g,g,g,g,g,g,g,g,B.F,g,g,!0,g,g,g,g,g,g,g,g),B.dI,g),B.h,g,g,g,g,g,g,g,g,g,g,g),g)],d),B.u,g,B.y,B.v,g,g),B.h,g,g,g,g,g,g,g,g,g,g,g)
 l=A.bx(B.amW,g,16)
 n=A.bt(g,g,16)
